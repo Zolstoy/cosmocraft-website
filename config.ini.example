@@ -1,0 +1,6 @@
+[smtp]
+domain = cosmocraft.space
+server = mail.gandi.net
+port = 587
+user = donotreply
+pass = 
